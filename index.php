@@ -7,6 +7,8 @@
     <title>Ma page initiale</title>
 </head>
 <body>
-    
+    <p> 
+        Ceci est le premier text écrit dans cette page.
+    </p>
 </body>
 </html>
